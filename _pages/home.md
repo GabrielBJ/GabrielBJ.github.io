@@ -26,7 +26,8 @@ Feynman R., The theory of positrons. <i>Phys. Rev.</i> (1949)
 
 ### About me
 
-I am a physicist working in the field of quantum mechanics and quantum electrodynamics.
-I received my undergraduate degree in physics from the Massachusetts Institute of Technology (MIT) in 1939 and went on to earn my PhD from Princeton University in 1942.
-After completing my doctoral studies, I worked on the Manhattan Project, where I helped develop the first atomic bombs.
-After the war, I returned to academia, holding teaching and research positions at Cornell and now at the California Institute of Technology.
+I am a bachelor student in physics at Yachay Tech University, Ecuador. I am interested in the filed of condensed matter physics for quantum computing, and computational physics.
+
+I created this website to share my research and interests in the aforementioned fields. Additionally, I will be posting some of my notes and thoughts on different topics in physics.
+
+I am in my last year of my undergraduate studies, and I am currently working on my thesis project, and I am excited to share my progress and results with you.
